@@ -59,7 +59,7 @@ export default {
 @import '~bootstrap/scss/code';
 @import '~bootstrap/scss/nav';
 @import '~bootstrap/scss/navbar';
-// @import '~bootstrap/scss/utilities/flex';
+@import '~bootstrap/scss/utilities/flex';
 @import "~bootstrap/scss/utilities/background";
 
 @import 'Main';
