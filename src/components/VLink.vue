@@ -1,12 +1,10 @@
 <template>
-	<li
-		class="nav-item"
-		>
+	<li class="nav-item">
 		<a
 			class="nav-link"
-			v-bind:class="{ active: isActive }"
-			v-bind:href="href"
-			v-on:click="go"
+			:class="{ active: isActive }"
+			:href="href"
+			@click="go"
 		>
 		<slot></slot>
 		</a>
