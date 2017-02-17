@@ -30,6 +30,7 @@
 					<v-link href="/">Home</v-link>
 					<v-link href="/var">Let, const and $(literal)</v-link>
 					<v-link href="/arrow">Arrow Functions</v-link>
+					<v-link href="/select">Select</v-link>
 				</ul>
 			</nav>
 			<aside>

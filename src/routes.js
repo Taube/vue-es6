@@ -1,5 +1,6 @@
 export default {
 	'/': 'home',
 	'/var': 'var',
-	'/arrow': 'arrow'
+	'/arrow': 'arrow',
+	'/select': 'select'
 }

@@ -14,7 +14,10 @@
   },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
-    "vue": "^2.1.10"
+    "json-loader": "^0.5.4",
+    "vue": "^2.1.10",
+    "vue-multiselect": "^2.0.0-beta.13",
+    "vue-select": "^2.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",

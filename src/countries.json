@@ -1,0 +1,2998 @@
+[{
+    "value": "Afghanistan",
+    "callingcode": "+93",
+    "iso2": "AF",
+    "importance": 0,
+    "tokens": [
+        "+93",
+        "AF",
+        "Afganistán",
+        "Afghanistan",
+        "افغانستان"
+    ]
+}, {
+    "value": "Albania",
+    "callingcode": "+355",
+    "iso2": "AL",
+    "importance": 0,
+    "tokens": [
+        "+355",
+        "AL",
+        "Albania",
+        "Albanie"
+    ]
+}, {
+    "value": "Algeria",
+    "callingcode": "+213",
+    "iso2": "DZ",
+    "importance": 0,
+    "tokens": [
+        "+213",
+        "Algeria",
+        "Algérie",
+        "Argelia",
+        "DZ",
+        "الجزائر"
+    ]
+}, {
+    "value": "American Samoa",
+    "callingcode": "+1684",
+    "iso2": "AS",
+    "importance": 1,
+    "tokens": [
+        "+1-684",
+        "+1684",
+        "AS",
+        "American",
+        "Americana",
+        "Samoa",
+        "américaines"
+    ]
+}, {
+    "value": "Andorra",
+    "callingcode": "+376",
+    "iso2": "AD",
+    "importance": 0,
+    "tokens": [
+        "+376",
+        "AD",
+        "Andorra",
+        "Andorre"
+    ]
+}, {
+    "value": "Angola",
+    "callingcode": "+244",
+    "iso2": "AO",
+    "importance": 0,
+    "tokens": [
+        "+244",
+        "AO",
+        "Angola"
+    ]
+}, {
+    "value": "Anguilla",
+    "callingcode": "+1264",
+    "iso2": "AI",
+    "importance": 1,
+    "tokens": [
+        "+1-264",
+        "+1264",
+        "AI",
+        "Anguila",
+        "Anguilla"
+    ]
+}, {
+    "value": "Antarctica",
+    "callingcode": "+672",
+    "iso2": "AQ",
+    "importance": 1,
+    "tokens": [
+        "+672",
+        "AQ",
+        "Antarctica",
+        "Antarctique",
+        "Antártida"
+    ]
+}, {
+    "value": "Antigua and Barbuda",
+    "callingcode": "+1268",
+    "iso2": "AG",
+    "importance": 1,
+    "tokens": [
+        "+1-268",
+        "+1268",
+        "AG",
+        "And",
+        "Antigua",
+        "Antigua-et-Barbuda",
+        "Barbuda",
+        "y"
+    ]
+}, {
+    "value": "Argentina",
+    "callingcode": "+54",
+    "iso2": "AR",
+    "importance": 0,
+    "tokens": [
+        "+54",
+        "AR",
+        "Argentina",
+        "Argentine"
+    ]
+}, {
+    "value": "Armenia",
+    "callingcode": "+374",
+    "iso2": "AM",
+    "importance": 0,
+    "tokens": [
+        "+374",
+        "AM",
+        "Armenia",
+        "Arménie"
+    ]
+}, {
+    "value": "Aruba",
+    "callingcode": "+297",
+    "iso2": "AW",
+    "importance": 1,
+    "tokens": [
+        "+297",
+        "AW",
+        "Aruba"
+    ]
+}, {
+    "value": "Australia",
+    "callingcode": "+61",
+    "iso2": "AU",
+    "importance": 2,
+    "tokens": [
+        "+61",
+        "AU",
+        "Australia",
+        "Australie"
+    ]
+}, {
+    "value": "Austria",
+    "callingcode": "+43",
+    "iso2": "AT",
+    "importance": 0,
+    "tokens": [
+        "+43",
+        "AT",
+        "Austria",
+        "Autriche",
+        "Oesterreich",
+        "Osterreich",
+        "Österreich"
+    ]
+}, {
+    "value": "Azerbaijani Republic",
+    "callingcode": "+994",
+    "iso2": "AZ",
+    "importance": 0,
+    "tokens": [
+        "+994",
+        "AZ",
+        "Azerbaijan",
+        "Azerbaijani",
+        "Azerbaiyán",
+        "Republic",
+        "República",
+        "République",
+        "d&#39;Azerbaïdjan",
+        "de"
+    ]
+}, {
+    "value": "Bahamas",
+    "callingcode": "+1242",
+    "iso2": "BS",
+    "importance": 0,
+    "tokens": [
+        "+1-242",
+        "+1242",
+        "BS",
+        "Bahamas"
+    ]
+}, {
+    "value": "Bahrain",
+    "callingcode": "+973",
+    "iso2": "BH",
+    "importance": 0,
+    "tokens": [
+        "+973",
+        "BH",
+        "Bahrain",
+        "Bahreïn",
+        "Bahréin",
+        "البحرين"
+    ]
+}, {
+    "value": "Bangladesh",
+    "callingcode": "+880",
+    "iso2": "BD",
+    "importance": 0,
+    "tokens": [
+        "+880",
+        "BD",
+        "Bangladesh",
+        "বাংলাদেশ"
+    ]
+}, {
+    "value": "Barbados",
+    "callingcode": "+1246",
+    "iso2": "BB",
+    "importance": 0,
+    "tokens": [
+        "+1-246",
+        "+1246",
+        "BB",
+        "Barbade",
+        "Barbados"
+    ]
+}, {
+    "value": "Belarus",
+    "callingcode": "+375",
+    "iso2": "BY",
+    "importance": 0,
+    "tokens": [
+        "+375",
+        "BY",
+        "Belarus",
+        "Bielorrusia",
+        "Bélarus",
+        "Беларусь"
+    ]
+}, {
+    "value": "Belgium",
+    "callingcode": "+32",
+    "iso2": "BE",
+    "importance": 2,
+    "tokens": [
+        "+32",
+        "BE",
+        "Belgie",
+        "Belgien",
+        "Belgique",
+        "Belgium",
+        "België",
+        "Bélgica"
+    ]
+}, {
+    "value": "Belize",
+    "callingcode": "+501",
+    "iso2": "BZ",
+    "importance": 0,
+    "tokens": [
+        "+501",
+        "BZ",
+        "Belice",
+        "Belize"
+    ]
+}, {
+    "value": "Benin",
+    "callingcode": "+229",
+    "iso2": "BJ",
+    "importance": 0,
+    "tokens": [
+        "+229",
+        "BJ",
+        "Benin",
+        "Benín",
+        "Bénin"
+    ]
+}, {
+    "value": "Bermuda",
+    "callingcode": "+1441",
+    "iso2": "BM",
+    "importance": 1,
+    "tokens": [
+        "+1-441",
+        "+1441",
+        "BM",
+        "Bermuda",
+        "Bermudas",
+        "Bermudes"
+    ]
+}, {
+    "value": "Bhutan",
+    "callingcode": "+975",
+    "iso2": "BT",
+    "importance": 0,
+    "tokens": [
+        "+975",
+        "BT",
+        "Bhoutan",
+        "Bhutan",
+        "Bután"
+    ]
+}, {
+    "value": "Bolivia",
+    "callingcode": "+591",
+    "iso2": "BO",
+    "importance": 0,
+    "tokens": [
+        "+591",
+        "BO",
+        "Bolivia",
+        "Bolivie"
+    ]
+}, {
+    "value": "Bosnia and Herzegovina",
+    "callingcode": "+387",
+    "iso2": "BA",
+    "importance": 0,
+    "tokens": [
+        "+387",
+        "BA",
+        "Bosnia",
+        "Bosnie-Herzégovine",
+        "Herzegovina",
+        "and",
+        "y",
+        "Босна",
+        "Херцеговина",
+        "и"
+    ]
+}, {
+    "value": "Botswana",
+    "callingcode": "+267",
+    "iso2": "BW",
+    "importance": 0,
+    "tokens": [
+        "+267",
+        "BW",
+        "Botsuana",
+        "Botswana"
+    ]
+}, {
+    "value": "Brazil",
+    "callingcode": "+55",
+    "iso2": "BR",
+    "importance": 3,
+    "tokens": [
+        "+55",
+        "BR",
+        "Brasil",
+        "Brazil",
+        "Brésil"
+    ]
+}, {
+    "value": "Brunei Darussalam",
+    "callingcode": "+673",
+    "iso2": "BN",
+    "importance": 0,
+    "tokens": [
+        "+673",
+        "BN",
+        "Brunei",
+        "Brunéi",
+        "Darussalam"
+    ]
+}, {
+    "value": "Bulgaria",
+    "callingcode": "+359",
+    "iso2": "BG",
+    "importance": 0,
+    "tokens": [
+        "+359",
+        "BG",
+        "Bulgaria",
+        "Bulgarie",
+        "България"
+    ]
+}, {
+    "value": "Burkina Faso",
+    "callingcode": "+226",
+    "iso2": "BF",
+    "importance": 0,
+    "tokens": [
+        "+226",
+        "BF",
+        "Burkina",
+        "Faso"
+    ]
+}, {
+    "value": "Burundi",
+    "callingcode": "+257",
+    "iso2": "BI",
+    "importance": 0,
+    "tokens": [
+        "+257",
+        "BI",
+        "Burundi"
+    ]
+}, {
+    "value": "Cambodia",
+    "callingcode": "+855",
+    "iso2": "KH",
+    "importance": 0,
+    "tokens": [
+        "+855",
+        "Cambodge",
+        "Camboya",
+        "KH",
+        "កម្ពុជា"
+    ]
+}, {
+    "value": "Cameroon",
+    "callingcode": "+237",
+    "iso2": "CM",
+    "importance": 0,
+    "tokens": [
+        "+237",
+        "CM",
+        "Cameroon",
+        "Cameroun",
+        "Camerún"
+    ]
+}, {
+    "value": "Canada",
+    "callingcode": "+1",
+    "iso2": "CA",
+    "importance": 3,
+    "tokens": [
+        "+1",
+        "CA",
+        "Canada",
+        "Canadá"
+    ]
+}, {
+    "value": "Cape Verde",
+    "callingcode": "+238",
+    "iso2": "CV",
+    "importance": 0,
+    "tokens": [
+        "+238",
+        "CV",
+        "Cabo",
+        "Cap-Vert",
+        "Cape",
+        "Verde"
+    ]
+}, {
+    "value": "Cayman Islands",
+    "callingcode": "+1345",
+    "iso2": "KY",
+    "importance": 1,
+    "tokens": [
+        "+1345",
+        "1-345",
+        "Caimán",
+        "Cayman",
+        "Caïmans",
+        "Iles",
+        "Islands",
+        "Islas",
+        "KY"
+    ]
+}, {
+    "value": "Central African Republic",
+    "callingcode": "+236",
+    "iso2": "CF",
+    "importance": 0,
+    "tokens": [
+        "+236",
+        "African",
+        "CF",
+        "Central",
+        "Centroafricana",
+        "Republic",
+        "República",
+        "République",
+        "centrafricaine"
+    ]
+}, {
+    "value": "Chad",
+    "callingcode": "+235",
+    "iso2": "TD",
+    "importance": 0,
+    "tokens": [
+        "+235",
+        "Chad",
+        "TD",
+        "Tchad",
+        "تشاد"
+    ]
+}, {
+    "value": "Chile",
+    "callingcode": "+56",
+    "iso2": "CL",
+    "importance": 0,
+    "tokens": [
+        "+56",
+        "CL",
+        "Chile",
+        "Chili"
+    ]
+}, {
+    "value": "China",
+    "callingcode": "+86",
+    "iso2": "CN",
+    "importance": 3,
+    "tokens": [
+        "+86",
+        "CN",
+        "China",
+        "Chine",
+        "Zhongguo",
+        "Zhonghua"
+    ]
+}, {
+    "value": "Colombia",
+    "callingcode": "+57",
+    "iso2": "CO",
+    "importance": 0,
+    "tokens": [
+        "+57",
+        "CO",
+        "Colombia",
+        "Colombie"
+    ]
+}, {
+    "value": "Comoros",
+    "callingcode": "+269",
+    "iso2": "KM",
+    "importance": 0,
+    "tokens": [
+        "+269",
+        "Comoras",
+        "Comores",
+        "Comoros",
+        "KM",
+        "جزر"
+    ]
+}, {
+    "value": "Congo",
+    "callingcode": "+242",
+    "iso2": "CG",
+    "importance": 0,
+    "tokens": [
+        "+242",
+        "CG",
+        "Congo"
+    ]
+}, {
+    "value": "Democratic Republic of the Congo",
+    "callingcode": "+243",
+    "iso2": "CD",
+    "importance": 0,
+    "tokens": [
+        "+243",
+        "CD",
+        "Congo",
+        "Congo,",
+        "Congo-Brazzaville",
+        "Democratic",
+        "Democrática",
+        "Démocratique",
+        "Republic",
+        "República",
+        "République",
+        "del",
+        "du",
+        "of",
+        "the"
+    ]
+}, {
+    "value": "Cook Islands",
+    "callingcode": "+682",
+    "iso2": "CK",
+    "importance": 1,
+    "tokens": [
+        "+682",
+        "CK",
+        "Cook",
+        "Iles",
+        "Islands",
+        "Islas"
+    ]
+}, {
+    "value": "Costa Rica",
+    "callingcode": "+506",
+    "iso2": "CR",
+    "importance": 0,
+    "tokens": [
+        "+506",
+        "CR",
+        "Costa",
+        "Rica"
+    ]
+}, {
+    "value": "Cote d´Ivoire",
+    "callingcode": "+225",
+    "iso2": "CI",
+    "importance": 0,
+    "tokens": [
+        "+225",
+        "CI",
+        "Costa",
+        "Coast",
+        "Côte",
+        "Cote",
+        "Ivory",
+        "Marfil",
+        "d´Ivoire",
+        "de"
+    ]
+}, {
+    "value": "Croatia",
+    "callingcode": "+385",
+    "iso2": "HR",
+    "importance": 0,
+    "tokens": [
+        "+385",
+        "Croacia",
+        "Croatia",
+        "Croatie",
+        "HR",
+        "Hrvatska"
+    ]
+}, {
+    "value": "Cuba",
+    "callingcode": "+53",
+    "iso2": "CU",
+    "importance": 0,
+    "tokens": [
+        "+53",
+        "CU",
+        "Cuba"
+    ]
+}, {
+    "value": "Cyprus",
+    "callingcode": "+357",
+    "iso2": "CY",
+    "importance": 0,
+    "tokens": [
+        "+357",
+        "CY",
+        "Chipre",
+        "Chypre",
+        "Cyprus",
+        "Kýpros",
+        "Kıbrıs",
+        "Κύπρος"
+    ]
+}, {
+    "value": "Czech Republic",
+    "callingcode": "+420",
+    "iso2": "CZ",
+    "importance": 0,
+    "tokens": [
+        "+420",
+        "CZ",
+        "Ceska",
+        "Checa",
+        "Czech",
+        "Republic",
+        "República",
+        "République",
+        "tchèque",
+        "Česká"
+    ]
+}, {
+    "value": "Denmark",
+    "callingcode": "+45",
+    "iso2": "DK",
+    "importance": 0,
+    "tokens": [
+        "+45",
+        "DK",
+        "Danemark",
+        "Denmark",
+        "Dinamarca"
+    ]
+}, {
+    "value": "Djibouti",
+    "callingcode": "+253",
+    "iso2": "DJ",
+    "importance": 0,
+    "tokens": [
+        "+253",
+        "DJ",
+        "Djibouti",
+        "Gabuuti",
+        "Jabuuti",
+        "جيبوتي‎"
+    ]
+}, {
+    "value": "Dominica",
+    "callingcode": "+1767",
+    "iso2": "DM",
+    "importance": 0,
+    "tokens": [
+        "+1-767",
+        "+1767",
+        "DM",
+        "Dominica",
+        "Dominique"
+    ]
+}, {
+    "value": "Dominican Republic",
+    "callingcode": "+1809",
+    "iso2": "DO",
+    "importance": 0,
+    "tokens": [
+        "+1-809",
+        "+1809",
+        "DO",
+        "Dominicaine",
+        "Dominican",
+        "Dominicana",
+        "Republic",
+        "República",
+        "République"
+    ]
+}, {
+    "value": "Ecuador",
+    "callingcode": "+593",
+    "iso2": "EC",
+    "importance": 0,
+    "tokens": [
+        "+593",
+        "EC",
+        "Ecuador",
+        "Equateur"
+    ]
+}, {
+    "value": "Egypt",
+    "callingcode": "+20",
+    "iso2": "EG",
+    "importance": 2,
+    "tokens": [
+        "+20",
+        "EG",
+        "Egipto",
+        "Egypt",
+        "Egypte"
+    ]
+}, {
+    "value": "El Salvador",
+    "callingcode": "+503",
+    "iso2": "SV",
+    "importance": 0,
+    "tokens": [
+        "+503",
+        "El",
+        "SV",
+        "Salvador"
+    ]
+}, {
+    "value": "Equatorial Guinea",
+    "callingcode": "+240",
+    "iso2": "GQ",
+    "importance": 0,
+    "tokens": [
+        "+240",
+        "Ecuatorial",
+        "Equatorial",
+        "GQ",
+        "Guinea",
+        "Guinée",
+        "équatoriale"
+    ]
+}, {
+    "value": "Eritrea",
+    "callingcode": "+291",
+    "iso2": "ER",
+    "importance": 0,
+    "tokens": [
+        "+291",
+        "ER",
+        "Eritrea",
+        "Erythrée",
+        "إرتريا",
+        "ኤርትራ"
+    ]
+}, {
+    "value": "Estonia",
+    "callingcode": "+372",
+    "iso2": "EE",
+    "importance": 0,
+    "tokens": [
+        "+372",
+        "EE",
+        "Eesti",
+        "Estonia",
+        "Estonie"
+    ]
+}, {
+    "value": "Ethiopia",
+    "callingcode": "+251",
+    "iso2": "ET",
+    "importance": 0,
+    "tokens": [
+        "+251",
+        "ET",
+        "Ethiopia",
+        "Ethiopie",
+        "Etiopía",
+        "ኢትዮጵያ"
+    ]
+}, {
+    "value": "Falkland Islands",
+    "callingcode": "+500",
+    "iso2": "FK",
+    "importance": 1,
+    "tokens": [
+        "(Malvinas)",
+        "+500",
+        "FK",
+        "Falkland",
+        "Iles",
+        "Islands",
+        "Islas",
+        "Malvinas"
+    ]
+}, {
+    "value": "Faroe Islands",
+    "callingcode": "+298",
+    "iso2": "FO",
+    "importance": 1,
+    "tokens": [
+        "+298",
+        "FO",
+        "Faroe",
+        "Feroe",
+        "Færøerne",
+        "Féroé",
+        "Føroyar",
+        "Iles",
+        "Islands",
+        "Islas"
+    ]
+}, {
+    "value": "Fiji",
+    "callingcode": "+679",
+    "iso2": "FJ",
+    "importance": 0,
+    "tokens": [
+        "+679",
+        "FJ",
+        "Fidji",
+        "Fiji",
+        "Viti",
+        "फ़िजी"
+    ]
+}, {
+    "value": "Finland",
+    "callingcode": "+358",
+    "iso2": "FI",
+    "importance": 0,
+    "tokens": [
+        "+358",
+        "FI",
+        "Finland",
+        "Finlande",
+        "Finlandia",
+        "Suomi"
+    ]
+}, {
+    "value": "France",
+    "callingcode": "+33",
+    "iso2": "FR",
+    "importance": 3,
+    "tokens": [
+        "+33",
+        "FR",
+        "France",
+        "Francia"
+    ]
+}, {
+    "value": "French Guiana",
+    "callingcode": "+594",
+    "iso2": "GF",
+    "importance": 0,
+    "tokens": [
+        "+594",
+        "Francesa",
+        "French",
+        "GF",
+        "Guayana",
+        "Guiana",
+        "Guyane"
+    ]
+}, {
+    "value": "French Polynesia",
+    "callingcode": "+689",
+    "iso2": "PF",
+    "importance": 0,
+    "tokens": [
+        "+689",
+        "Francesa",
+        "French",
+        "PF",
+        "Polinesia",
+        "Polynesia",
+        "Polynésie",
+        "française"
+    ]
+}, {
+    "value": "Gabonese Republic",
+    "callingcode": "+241",
+    "iso2": "GA",
+    "importance": 0,
+    "tokens": [
+        "+241",
+        "GA",
+        "Gabon",
+        "Gabonaise",
+        "Gabonesa",
+        "Gabonese",
+        "Republic",
+        "República",
+        "République"
+    ]
+}, {
+    "value": "Gambia",
+    "callingcode": "+220",
+    "iso2": "GM",
+    "importance": 0,
+    "tokens": [
+        "+220",
+        "GM",
+        "Gambia",
+        "Gambie"
+    ]
+}, {
+    "value": "Georgia",
+    "callingcode": "+995",
+    "iso2": "GE",
+    "importance": 0,
+    "tokens": [
+        "+995",
+        "GE",
+        "Georgia",
+        "Georgie",
+        "საქართველო"
+    ]
+}, {
+    "value": "Germany",
+    "callingcode": "+49",
+    "iso2": "DE",
+    "importance": 0,
+    "tokens": [
+        "+49",
+        "Alemania",
+        "Allemagne",
+        "Bundesrepublik",
+        "DE",
+        "Germany"
+    ]
+}, {
+    "value": "Ghana",
+    "callingcode": "+233",
+    "iso2": "GH",
+    "importance": 0,
+    "tokens": [
+        "+233",
+        "GH",
+        "Ghana"
+    ]
+}, {
+    "value": "Gibraltar",
+    "callingcode": "+350",
+    "iso2": "GI",
+    "importance": 1,
+    "tokens": [
+        "+350",
+        "GI",
+        "Gibraltar"
+    ]
+}, {
+    "value": "Greece",
+    "callingcode": "+30",
+    "iso2": "GR",
+    "importance": 0,
+    "tokens": [
+        "+30",
+        "GR",
+        "Grecia",
+        "Greece",
+        "Grèce",
+        "Ελλάδα"
+    ]
+}, {
+    "value": "Greenland",
+    "callingcode": "+299",
+    "iso2": "GL",
+    "importance": 0,
+    "tokens": [
+        "+299",
+        "GL",
+        "Greenland",
+        "Groenland",
+        "Groenlandia",
+        "grønland"
+    ]
+}, {
+    "value": "Grenada",
+    "callingcode": "+1473",
+    "iso2": "GD",
+    "importance": 0,
+    "tokens": [
+        "+1-473",
+        "+1473",
+        "GD",
+        "Granada",
+        "Grenada",
+        "Grenade"
+    ]
+}, {
+    "value": "Guadeloupe",
+    "callingcode": "+590",
+    "iso2": "GP",
+    "importance": 0,
+    "tokens": [
+        "+590",
+        "GP",
+        "Guadalupe",
+        "Guadeloupe"
+    ]
+}, {
+    "value": "Guam",
+    "callingcode": "+1671",
+    "iso2": "GU",
+    "importance": 0,
+    "tokens": [
+        "+1-671",
+        "+1671",
+        "GU",
+        "Guam"
+    ]
+}, {
+    "value": "Guatemala",
+    "callingcode": "+502",
+    "iso2": "GT",
+    "importance": 0,
+    "tokens": [
+        "+502",
+        "GT",
+        "Guatemala"
+    ]
+}, {
+    "value": "Guinea",
+    "callingcode": "+224",
+    "iso2": "GN",
+    "importance": 0,
+    "tokens": [
+        "+224",
+        "GT",
+        "Guinea",
+        "Guinée"
+    ]
+}, {
+    "value": "Guinea-Bissau",
+    "callingcode": "+245",
+    "iso2": "GW",
+    "importance": 0,
+    "tokens": [
+        "+245",
+        "GW",
+        "Guinea-Bissau"
+    ]
+}, {
+    "value": "Guyana",
+    "callingcode": "+592",
+    "iso2": "GY",
+    "importance": 0,
+    "tokens": [
+        "+592",
+        "GY",
+        "Guyana"
+    ]
+}, {
+    "value": "Haiti",
+    "callingcode": "+509",
+    "iso2": "HT",
+    "importance": 0,
+    "tokens": [
+        "+509",
+        "HT",
+        "Haiti",
+        "Haití",
+        "Haïti"
+    ]
+}, {
+    "value": "Vatican",
+    "callingcode": "+39",
+    "iso2": "VA",
+    "importance": 0,
+    "tokens": [
+        "(Vatican",
+        "+39",
+        "City",
+        "Holy",
+        "See",
+        "State)",
+        "VA",
+        "Vaticano"
+    ]
+}, {
+    "value": "Honduras",
+    "callingcode": "+504",
+    "iso2": "HN",
+    "importance": 0,
+    "tokens": [
+        "+504",
+        "HN",
+        "Honduras"
+    ]
+}, {
+    "value": "Hongkong, China",
+    "callingcode": "+852",
+    "iso2": "HK",
+    "importance": 0,
+    "tokens": [
+        "+852",
+        "China",
+        "Chine",
+        "HK",
+        "Hong",
+        "Hongkong",
+        "Kong",
+        "香港"
+    ]
+}, {
+    "value": "Hungary",
+    "callingcode": "+36",
+    "iso2": "HU",
+    "importance": 0,
+    "tokens": [
+        "+36",
+        "HU",
+        "Hongrie",
+        "Hungary",
+        "Hungría",
+        "Magyarország"
+    ]
+}, {
+    "value": "Iceland",
+    "callingcode": "+354",
+    "iso2": "IS",
+    "importance": 0,
+    "tokens": [
+        "+354",
+        "IS",
+        "Iceland",
+        "Island",
+        "Islande",
+        "Islandia"
+    ]
+}, {
+    "value": "India",
+    "callingcode": "+91",
+    "iso2": "IN",
+    "importance": 4,
+    "tokens": [
+        "+91",
+        "Hindustan",
+        "IN",
+        "Inde",
+        "India",
+        "भारत"
+    ]
+}, {
+    "value": "Indonesia",
+    "callingcode": "+62",
+    "iso2": "ID",
+    "importance": 3,
+    "tokens": [
+        "+62",
+        "ID",
+        "Indonesia",
+        "Indonésie"
+    ]
+}, {
+    "value": "Iran",
+    "callingcode": "+98",
+    "iso2": "IR",
+    "importance": 0,
+    "tokens": [
+        "+98",
+        "IR",
+        "Iran,",
+        "Irán",
+        "Islamic",
+        "Republic",
+        "of",
+        "ایران"
+    ]
+}, {
+    "value": "Iraq",
+    "callingcode": "+964",
+    "iso2": "IQ",
+    "importance": 0,
+    "tokens": [
+        "+964",
+        "IQ",
+        "Irak",
+        "Iraq",
+        "العراق"
+    ]
+}, {
+    "value": "Ireland",
+    "callingcode": "+353",
+    "iso2": "IE",
+    "importance": 2,
+    "tokens": [
+        "+353",
+        "IE",
+        "Ireland",
+        "Irlanda",
+        "Irlande",
+        "Éire"
+    ]
+}, {
+    "value": "Israel",
+    "callingcode": "+972",
+    "iso2": "IL",
+    "importance": 0,
+    "tokens": [
+        "+972",
+        "IL",
+        "Israel",
+        "Israël",
+        "ישראל",
+        "إسرائيل"
+    ]
+}, {
+    "value": "Italy",
+    "callingcode": "+39",
+    "iso2": "IT",
+    "importance": 3,
+    "tokens": [
+        "+39",
+        "IT",
+        "Italia",
+        "Italie",
+        "Italy"
+    ]
+}, {
+    "value": "Jamaica",
+    "callingcode": "+1876",
+    "iso2": "JM",
+    "importance": 0,
+    "tokens": [
+        "+1-876",
+        "+1876",
+        "JM",
+        "Jamaica",
+        "Jamaïque"
+    ]
+}, {
+    "value": "Japan",
+    "callingcode": "+81",
+    "iso2": "JP",
+    "importance": 3,
+    "tokens": [
+        "+81",
+        "JP",
+        "Japan",
+        "Japon",
+        "Japón",
+        "Nihon",
+        "Nippon",
+        "日本"
+    ]
+}, {
+    "value": "Jordan",
+    "callingcode": "+962",
+    "iso2": "JO",
+    "importance": 0,
+    "tokens": [
+        "+962",
+        "JO",
+        "Jordan",
+        "Jordania",
+        "Jordanie",
+        "الأردن"
+    ]
+}, {
+    "value": "Kazakhstan",
+    "callingcode": "+7",
+    "iso2": "KZ",
+    "importance": 0,
+    "tokens": [
+        "+7",
+        "KZ",
+        "Kazajistán",
+        "Kazakhstan",
+        "Казахстан",
+        "Қазақстан"
+    ]
+}, {
+    "value": "Kenya",
+    "callingcode": "+254",
+    "iso2": "KE",
+    "importance": 0,
+    "tokens": [
+        "+254",
+        "KE",
+        "Kenia",
+        "Kenya"
+    ]
+}, {
+    "value": "Kiribati",
+    "callingcode": "+686",
+    "iso2": "KI",
+    "importance": 0,
+    "tokens": [
+        "+686",
+        "KI",
+        "Kiribati"
+    ]
+}, {
+    "value": "Korea (Democratic People´s Republic of)",
+    "callingcode": "+850",
+    "iso2": "KP",
+    "importance": 0,
+    "tokens": [
+        "(Democratic",
+        "(República",
+        "(République",
+        "+850",
+        "Corea",
+        "Corée",
+        "Democratic",
+        "Democrática)",
+        "KP",
+        "Korea",
+        "Korea,",
+        "People&#39;s",
+        "People´s",
+        "Popular",
+        "Republic",
+        "démocratique)",
+        "of",
+        "of)",
+        "populaire"
+    ]
+}, {
+    "value": "Korea (Republic of)",
+    "callingcode": "+82",
+    "iso2": "KR",
+    "importance": 2,
+    "tokens": [
+        "(Republic",
+        "(República",
+        "(République)",
+        "+82",
+        "Corea",
+        "Corée",
+        "KR",
+        "Korea",
+        "Korea,",
+        "Republic",
+        "South",
+        "de)",
+        "of",
+        "of)"
+    ]
+}, {
+    "value": "Kuwait",
+    "callingcode": "+965",
+    "iso2": "KW",
+    "importance": 0,
+    "tokens": [
+        "+965",
+        "KW",
+        "Koweït",
+        "Kuwait",
+        "الكويت"
+    ]
+}, {
+    "value": "Kyrgyzstan",
+    "callingcode": "+996",
+    "iso2": "KG",
+    "importance": 0,
+    "tokens": [
+        "+996",
+        "KG",
+        "Kirghizistan",
+        "Kirguizistán",
+        "Kyrgyzstan",
+        "Кыргызстан"
+    ]
+}, {
+    "value": "Laos",
+    "callingcode": "+856",
+    "iso2": "LA",
+    "importance": 0,
+    "tokens": [
+        "+856",
+        "Democratic",
+        "LA",
+        "Lao",
+        "People´s",
+        "Republic"
+    ]
+}, {
+    "value": "Latvia",
+    "callingcode": "+371",
+    "iso2": "LV",
+    "importance": 0,
+    "tokens": [
+        "+371",
+        "LV",
+        "Latvia",
+        "Latvija",
+        "Letonia",
+        "Lettonie"
+    ]
+}, {
+    "value": "Lebanon",
+    "callingcode": "+961",
+    "iso2": "LB",
+    "importance": 0,
+    "tokens": [
+        "+961",
+        "LB",
+        "Lebanon",
+        "Liban",
+        "Líbano",
+        "لبنان"
+    ]
+}, {
+    "value": "Lesotho",
+    "callingcode": "+266",
+    "iso2": "LS",
+    "importance": 0,
+    "tokens": [
+        "+266",
+        "LS",
+        "Lesotho",
+        "Lesoto"
+    ]
+}, {
+    "value": "Liberia",
+    "callingcode": "+231",
+    "iso2": "LR",
+    "importance": 0,
+    "tokens": [
+        "+231",
+        "LR",
+        "Liberia",
+        "Libéria"
+    ]
+}, {
+    "value": "Libya",
+    "callingcode": "+218",
+    "iso2": "LY",
+    "importance": 0,
+    "tokens": [
+        "+218",
+        "Arab",
+        "Jamahiriya",
+        "LY",
+        "Libia",
+        "Libyan",
+        "Libye",
+        "ليبيا"
+    ]
+}, {
+    "value": "Liechtenstein",
+    "callingcode": "+423",
+    "iso2": "LI",
+    "importance": 0,
+    "tokens": [
+        "+423",
+        "LI",
+        "Liechtenstein"
+    ]
+}, {
+    "value": "Lithuania",
+    "callingcode": "+370",
+    "iso2": "LT",
+    "importance": 0,
+    "tokens": [
+        "+370",
+        "LT",
+        "Lietuva",
+        "Lithuania",
+        "Lituania",
+        "Lituanie"
+    ]
+}, {
+    "value": "Luxembourg",
+    "callingcode": "+352",
+    "iso2": "LU",
+    "importance": 0,
+    "tokens": [
+        "+352",
+        "LU",
+        "Luxembourg",
+        "Luxemburgo"
+    ]
+}, {
+    "value": "Macao, China",
+    "callingcode": "+853",
+    "iso2": "MO",
+    "importance": 0,
+    "tokens": [
+        "+853",
+        "China",
+        "Chine",
+        "MO",
+        "Macao"
+    ]
+}, {
+    "value": "Macedonia",
+    "callingcode": "+389",
+    "iso2": "MK",
+    "importance": 0,
+    "tokens": [
+        "+389",
+        "Former",
+        "MK",
+        "Macedonia,",
+        "Macédoine",
+        "Of",
+        "Republic",
+        "The",
+        "Yugoslav",
+        "Македонија"
+    ]
+}, {
+    "value": "Madagascar",
+    "callingcode": "+261",
+    "iso2": "MG",
+    "importance": 0,
+    "tokens": [
+        "+261",
+        "MG",
+        "Madagascar",
+        "Madagasikara"
+    ]
+}, {
+    "value": "Malawi",
+    "callingcode": "+265",
+    "iso2": "MW",
+    "importance": 0,
+    "tokens": [
+        "+265",
+        "MW",
+        "Malawi"
+    ]
+}, {
+    "value": "Malaysia",
+    "callingcode": "+60",
+    "iso2": "MY",
+    "importance": 0,
+    "tokens": [
+        "+60",
+        "MY",
+        "Malaisie",
+        "Malasia",
+        "Malaysia"
+    ]
+}, {
+    "value": "Maldives",
+    "callingcode": "+960",
+    "iso2": "MV",
+    "importance": 0,
+    "tokens": [
+        "+960",
+        "MV",
+        "Maldivas",
+        "Maldives"
+    ]
+}, {
+    "value": "Mali",
+    "callingcode": "+223",
+    "iso2": "ML",
+    "importance": 0,
+    "tokens": [
+        "+223",
+        "ML",
+        "Mali",
+        "Malí"
+    ]
+}, {
+    "value": "Malta",
+    "callingcode": "+356",
+    "iso2": "MT",
+    "importance": 0,
+    "tokens": [
+        "+356",
+        "MT",
+        "Malta",
+        "Malte"
+    ]
+}, {
+    "value": "Marshall Islands",
+    "callingcode": "+692",
+    "iso2": "MH",
+    "importance": 1,
+    "tokens": [
+        "+692",
+        "Iles",
+        "Islands",
+        "Islas",
+        "MH",
+        "Marshall"
+    ]
+}, {
+    "value": "Martinique",
+    "callingcode": "+596",
+    "iso2": "MQ",
+    "importance": 0,
+    "tokens": [
+        "+596",
+        "MQ",
+        "Martinica",
+        "Martinique"
+    ]
+}, {
+    "value": "Mauritania",
+    "callingcode": "+222",
+    "iso2": "MR",
+    "importance": 0,
+    "tokens": [
+        "+222",
+        "MR",
+        "Mauritania",
+        "Mauritanie",
+        "الموريتانية"
+    ]
+}, {
+    "value": "Mauritius",
+    "callingcode": "+230",
+    "iso2": "MU",
+    "importance": 0,
+    "tokens": [
+        "+230",
+        "MU",
+        "Maurice",
+        "Mauricio",
+        "Mauritius"
+    ]
+}, {
+    "value": "Mayotte",
+    "callingcode": "+262",
+    "iso2": "YT",
+    "importance": 0,
+    "tokens": [
+        "+262",
+        "Mayotte",
+        "YT"
+    ]
+}, {
+    "value": "Mexico",
+    "callingcode": "+52",
+    "iso2": "MX",
+    "importance": 2,
+    "tokens": [
+        "+52",
+        "MX",
+        "Mexico",
+        "Mexique",
+        "México"
+    ]
+}, {
+    "value": "Micronesia",
+    "callingcode": "+691",
+    "iso2": "FM",
+    "importance": 0,
+    "tokens": [
+        "+691",
+        "FM",
+        "Federated",
+        "Micronesia,",
+        "Micronésie",
+        "States",
+        "of"
+    ]
+}, {
+    "value": "Moldova",
+    "callingcode": "+373",
+    "iso2": "MD",
+    "importance": 0,
+    "tokens": [
+        "+373",
+        "MD",
+        "Moldavia",
+        "Moldavie",
+        "Moldova,",
+        "Republic",
+        "of"
+    ]
+}, {
+    "value": "Monaco",
+    "callingcode": "+377",
+    "iso2": "MC",
+    "importance": 0,
+    "tokens": [
+        "+377",
+        "MC",
+        "Monaco",
+        "Mónaco"
+    ]
+}, {
+    "value": "Mongolia",
+    "callingcode": "+976",
+    "iso2": "MN",
+    "importance": 0,
+    "tokens": [
+        "+976",
+        "MN",
+        "Mongolia",
+        "Mongolie"
+    ]
+}, {
+    "value": "Montenegro",
+    "callingcode": "+382",
+    "iso2": "ME",
+    "importance": 0,
+    "tokens": [
+        "+382",
+        "ME",
+        "Montenegro",
+        "Monténégro"
+    ]
+}, {
+    "value": "Montserrat",
+    "callingcode": "+1664",
+    "iso2": "MS",
+    "importance": 1,
+    "tokens": [
+        "+1-664",
+        "+1664",
+        "MS",
+        "Montserrat"
+    ]
+}, {
+    "value": "Morocco",
+    "callingcode": "+212",
+    "iso2": "MA",
+    "importance": 0,
+    "tokens": [
+        "+212",
+        "MA",
+        "Maroc",
+        "Marruecos",
+        "Morocco"
+    ]
+}, {
+    "value": "Mozambique",
+    "callingcode": "+258",
+    "iso2": "MZ",
+    "importance": 0,
+    "tokens": [
+        "+258",
+        "MZ",
+        "Mozambique",
+        "Moçambique"
+    ]
+}, {
+    "value": "Myanmar",
+    "callingcode": "+95",
+    "iso2": "MM",
+    "importance": 0,
+    "tokens": [
+        "+95",
+        "MM",
+        "Myanmar"
+    ]
+}, {
+    "value": "Namibia",
+    "callingcode": "+264",
+    "iso2": "NA",
+    "importance": 0,
+    "tokens": [
+        "+264",
+        "NA",
+        "Namibia",
+        "Namibie",
+        "Namibië"
+    ]
+}, {
+    "value": "Nauru",
+    "callingcode": "+674",
+    "iso2": "NR",
+    "importance": 1,
+    "tokens": [
+        "+674",
+        "NR",
+        "Naoero",
+        "Nauru"
+    ]
+}, {
+    "value": "Nepal",
+    "callingcode": "+977",
+    "iso2": "NP",
+    "importance": 0,
+    "tokens": [
+        "+977",
+        "NP",
+        "Nepal",
+        "Népal",
+        "नेपाल"
+    ]
+}, {
+    "value": "Netherlands",
+    "callingcode": "+31",
+    "iso2": "NL",
+    "importance": 2,
+    "tokens": [
+        "+31",
+        "Bajos",
+        "Holland",
+        "NL",
+        "Netherlands",
+        "Pays-Bas",
+        "Países"
+    ]
+}, {
+    "value": "New Caledonia",
+    "callingcode": "+687",
+    "iso2": "NC",
+    "importance": 0,
+    "tokens": [
+        "+687",
+        "Caledonia",
+        "NC",
+        "New",
+        "Nouvelle-Calédonie",
+        "Nueva"
+    ]
+}, {
+    "value": "New Zealand",
+    "callingcode": "+64",
+    "iso2": "NZ",
+    "importance": 0,
+    "tokens": [
+        "+64",
+        "Aotearoa",
+        "NZ",
+        "New",
+        "Nouvelle-Zélande",
+        "Nueva",
+        "Zealand",
+        "Zelanda"
+    ]
+}, {
+    "value": "Nicaragua",
+    "callingcode": "+505",
+    "iso2": "NI",
+    "importance": 0,
+    "tokens": [
+        "+505",
+        "NI",
+        "Nicaragua"
+    ]
+}, {
+    "value": "Niger",
+    "callingcode": "+227",
+    "iso2": "NE",
+    "importance": 0,
+    "tokens": [
+        "+227",
+        "NE",
+        "Niger",
+        "Nijar",
+        "Níger"
+    ]
+}, {
+    "value": "Nigeria",
+    "callingcode": "+234",
+    "iso2": "NG",
+    "importance": 4,
+    "tokens": [
+        "+234",
+        "NG",
+        "Naíjíríà",
+        "Nigeria",
+        "Nigéria",
+        "Nijeriya"
+    ]
+}, {
+    "value": "Niue",
+    "callingcode": "+683",
+    "iso2": "NU",
+    "importance": 1,
+    "tokens": [
+        "+683",
+        "NU",
+        "Nioué",
+        "Niue"
+    ]
+}, {
+    "value": "CNMI",
+    "callingcode": "+1670",
+    "iso2": "MP",
+    "importance": 1,
+    "tokens": [
+        "+1-670",
+        "+1670",
+        "CNMI",
+        "Iles",
+        "Islands",
+        "Islas",
+        "MP",
+        "Mariana",
+        "Marianas",
+        "Mariannes",
+        "Norte",
+        "Northern",
+        "del",
+        "du",
+        "nord"
+    ]
+}, {
+    "value": "Norway",
+    "callingcode": "+47",
+    "iso2": "NO",
+    "importance": 2,
+    "tokens": [
+        "+47",
+        "NO",
+        "Noreg",
+        "Norge",
+        "Noruega",
+        "Norvège",
+        "Norway"
+    ]
+}, {
+    "value": "Oman",
+    "callingcode": "+968",
+    "iso2": "OM",
+    "importance": 0,
+    "tokens": [
+        "+968",
+        "OM",
+        "Oman",
+        "Omán",
+        "عمان"
+    ]
+}, {
+    "value": "Pakistan",
+    "callingcode": "+92",
+    "iso2": "PK",
+    "importance": 3,
+    "tokens": [
+        "+92",
+        "PK",
+        "Pakistan",
+        "Pakistán",
+        "پاکستان"
+    ]
+}, {
+    "value": "Palau",
+    "callingcode": "+680",
+    "iso2": "PW",
+    "importance": 1,
+    "tokens": [
+        "+680",
+        "PW",
+        "Palaos",
+        "Palau"
+    ]
+}, {
+    "value": "Palestine",
+    "callingcode": "+970",
+    "iso2": "PS",
+    "importance": 0,
+    "tokens": [
+        "+970",
+        "Occupied",
+        "PS",
+        "Palestina",
+        "Palestinian",
+        "Territory,",
+        "فلسطين"
+    ]
+}, {
+    "value": "Panama",
+    "callingcode": "+507",
+    "iso2": "PA",
+    "importance": 0,
+    "tokens": [
+        "+507",
+        "PA",
+        "Panama",
+        "Panamá"
+    ]
+}, {
+    "value": "Papua New Guinea",
+    "callingcode": "+675",
+    "iso2": "PG",
+    "importance": 0,
+    "tokens": [
+        "+675",
+        "Guinea",
+        "New",
+        "Nueva",
+        "PG",
+        "Papouasie-Nouvelle-Guinée",
+        "Papua",
+        "Papúa"
+    ]
+}, {
+    "value": "Paraguay",
+    "callingcode": "+595",
+    "iso2": "PY",
+    "importance": 0,
+    "tokens": [
+        "+595",
+        "PY",
+        "Paraguay"
+    ]
+}, {
+    "value": "Peru",
+    "callingcode": "+51",
+    "iso2": "PE",
+    "importance": 0,
+    "tokens": [
+        "+51",
+        "PE",
+        "Peru",
+        "Perú",
+        "Pérou"
+    ]
+}, {
+    "value": "Philippines",
+    "callingcode": "+63",
+    "iso2": "PH",
+    "importance": 2,
+    "tokens": [
+        "+63",
+        "Filipinas",
+        "PH",
+        "Philippines",
+        "Pilipinas"
+    ]
+}, {
+    "value": "Poland",
+    "callingcode": "+48",
+    "iso2": "PL",
+    "importance": 2,
+    "tokens": [
+        "+48",
+        "PL",
+        "Poland",
+        "Pologne",
+        "Polonia",
+        "Polska"
+    ]
+}, {
+    "value": "Portugal",
+    "callingcode": "+351",
+    "iso2": "PT",
+    "importance": 2,
+    "tokens": [
+        "+351",
+        "PT",
+        "Portugal",
+        "Portuguesa"
+    ]
+}, {
+    "value": "Puerto Rico",
+    "callingcode": "+1",
+    "iso2": "PR",
+    "importance": 0,
+    "tokens": [
+        "+1",
+        "PR",
+        "Porto",
+        "Puerto",
+        "Rico"
+    ]
+}, {
+    "value": "Qatar",
+    "callingcode": "+974",
+    "iso2": "QA",
+    "importance": 0,
+    "tokens": [
+        "+974",
+        "QA",
+        "Qatar",
+        "قطر"
+    ]
+}, {
+    "value": "Reunion",
+    "callingcode": "+262",
+    "iso2": "RE",
+    "importance": 0,
+    "tokens": [
+        "+262",
+        "RE",
+        "Reunion",
+        "Reunión",
+        "Réunion"
+    ]
+}, {
+    "value": "Romania",
+    "callingcode": "+40",
+    "iso2": "RO",
+    "importance": 0,
+    "tokens": [
+        "+40",
+        "RO",
+        "Romania",
+        "România",
+        "Roumania",
+        "Roumanie",
+        "Rumania",
+        "Rumanía"
+    ]
+}, {
+    "value": "Russia",
+    "callingcode": "+7",
+    "iso2": "RU",
+    "importance": 4,
+    "tokens": [
+        "+7",
+        "Federation",
+        "RU",
+        "Rossiya",
+        "Rusia",
+        "Russia",
+        "Russian",
+        "Russie",
+        "Российская",
+        "Россия"
+    ]
+}, {
+    "value": "Rwanda",
+    "callingcode": "+250",
+    "iso2": "RW",
+    "importance": 0,
+    "tokens": [
+        "+250",
+        "RW",
+        "Ruanda",
+        "Rwanda"
+    ]
+}, {
+    "value": "Saint Helena",
+    "callingcode": "+290",
+    "iso2": "SH",
+    "importance": 0,
+    "tokens": [
+        "+290",
+        "Elena",
+        "Helena",
+        "SH",
+        "Saint",
+        "Sainte-Hélène",
+        "Santa"
+    ]
+}, {
+    "value": "Saint Lucia",
+    "callingcode": "+1758",
+    "iso2": "LC",
+    "importance": 0,
+    "tokens": [
+        "+1-758",
+        "+1758",
+        "LC",
+        "Lucia",
+        "Lucía",
+        "Saint",
+        "Sainte-Lucie",
+        "Santa"
+    ]
+}, {
+    "value": "Saint Pierre and Miquelon",
+    "callingcode": "+508",
+    "iso2": "PM",
+    "importance": 0,
+    "tokens": [
+        "+508",
+        "Miquelon",
+        "Miquelón",
+        "PM",
+        "Pedro",
+        "Pierre",
+        "Saint",
+        "Saint-Pierre",
+        "San",
+        "and",
+        "et",
+        "y"
+    ]
+}, {
+    "value": "Saint Vincent and the Grenadines",
+    "callingcode": "+1784",
+    "iso2": "VC",
+    "importance": 0,
+    "tokens": [
+        "+1-784",
+        "+1784",
+        "Granadinas",
+        "Grenadines",
+        "Saint",
+        "Saint-Vincent-et-les-Grenadines",
+        "San",
+        "VC",
+        "Vicente",
+        "Vincent",
+        "and",
+        "las",
+        "the",
+        "y"
+    ]
+}, {
+    "value": "Samoa",
+    "callingcode": "+685",
+    "iso2": "WS",
+    "importance": 0,
+    "tokens": [
+        "+685",
+        "Samoa",
+        "WS"
+    ]
+}, {
+    "value": "San Marino",
+    "callingcode": "+378",
+    "iso2": "SM",
+    "importance": 0,
+    "tokens": [
+        "+378",
+        "Marino",
+        "SM",
+        "San"
+    ]
+}, {
+    "value": "Sao Tome and Principe",
+    "callingcode": "+239",
+    "iso2": "ST",
+    "importance": 0,
+    "tokens": [
+        "+239",
+        "Principe",
+        "Príncipe",
+        "ST",
+        "Santo",
+        "Sao",
+        "Tome",
+        "Tomé",
+        "Tomé-et-Principe",
+        "and",
+        "y"
+    ]
+}, {
+    "value": "Saudi Arabia",
+    "callingcode": "+966",
+    "iso2": "SA",
+    "importance": 0,
+    "tokens": [
+        "+966",
+        "Arabia",
+        "Arabie",
+        "SA",
+        "Saudi",
+        "Saudí",
+        "saoudite",
+        "السعودية"
+    ]
+}, {
+    "value": "Senegal",
+    "callingcode": "+221",
+    "iso2": "SN",
+    "importance": 0,
+    "tokens": [
+        "+221",
+        "SN",
+        "Senegal",
+        "Sénégal"
+    ]
+}, {
+    "value": "Serbia",
+    "callingcode": "+381",
+    "iso2": "RS",
+    "importance": 0,
+    "tokens": [
+        "+381",
+        "RS",
+        "Serbia",
+        "Serbie",
+        "Srbija",
+        "Србија"
+    ]
+}, {
+    "value": "Seychelles",
+    "callingcode": "+248",
+    "iso2": "SC",
+    "importance": 1,
+    "tokens": [
+        "+248",
+        "SC",
+        "Seychelles"
+    ]
+}, {
+    "value": "Sierra Leone",
+    "callingcode": "+232",
+    "iso2": "SL",
+    "importance": 0,
+    "tokens": [
+        "+232",
+        "Leona",
+        "Leone",
+        "SL",
+        "Sierra",
+        "Sierre"
+    ]
+}, {
+    "value": "Singapore",
+    "callingcode": "+65",
+    "iso2": "SG",
+    "importance": 0,
+    "tokens": [
+        "+65",
+        "SG",
+        "Singapore",
+        "Singapour",
+        "Singapur",
+        "Singapura",
+        "குடியரசு",
+        "சிங்கப்பூர்"
+    ]
+}, {
+    "value": "Slovakia",
+    "callingcode": "+421",
+    "iso2": "SK",
+    "importance": 0,
+    "tokens": [
+        "+421",
+        "Eslovaquia",
+        "SK",
+        "Slovakia",
+        "Slovaquie",
+        "Slovensko",
+        "Slovenská"
+    ]
+}, {
+    "value": "Slovenia",
+    "callingcode": "+386",
+    "iso2": "SI",
+    "importance": 0,
+    "tokens": [
+        "+386",
+        "Eslovenia",
+        "SI",
+        "Slovenia",
+        "Slovenija",
+        "Slovénie"
+    ]
+}, {
+    "value": "Solomon Islands",
+    "callingcode": "+677",
+    "iso2": "SB",
+    "importance": 0,
+    "tokens": [
+        "+677",
+        "Iles",
+        "Islands",
+        "Islas",
+        "SB",
+        "Salomon",
+        "Salomón",
+        "Solomon"
+    ]
+}, {
+    "value": "Somalia",
+    "callingcode": "+252",
+    "iso2": "SO",
+    "importance": 0,
+    "tokens": [
+        "+252",
+        "SO",
+        "Somali",
+        "Somalia",
+        "Somalie",
+        "الصومال"
+    ]
+}, {
+    "value": "South Africa",
+    "callingcode": "+27",
+    "iso2": "ZA",
+    "importance": 0,
+    "tokens": [
+        "+27",
+        "Africa",
+        "Afrique",
+        "RSA",
+        "South",
+        "Sud",
+        "Sudáfrica",
+        "Suid-Afrika",
+        "ZA",
+        "du"
+    ]
+}, {
+    "value": "South Sudan",
+    "callingcode": "+211",
+    "iso2": "SS",
+    "importance": 0,
+    "tokens": [
+        "+211",
+        "SS",
+        "South",
+        "Sudan"
+    ]
+}, {
+    "value": "Spain",
+    "callingcode": "+34",
+    "iso2": "ES",
+    "importance": 3,
+    "tokens": [
+        "+34",
+        "ES",
+        "Espagne",
+        "España",
+        "Spain"
+    ]
+}, {
+    "value": "Sri Lanka",
+    "callingcode": "+94",
+    "iso2": "LK",
+    "importance": 0,
+    "tokens": [
+        "+94",
+        "LK",
+        "Lanka",
+        "Sri",
+        "இலங்கை",
+        "ලංකා",
+        "ශ්‍රී"
+    ]
+}, {
+    "value": "Sudan",
+    "callingcode": "+249",
+    "iso2": "SD",
+    "importance": 0,
+    "tokens": [
+        "+249",
+        "SD",
+        "Soudan",
+        "Sudan",
+        "Sudán",
+        "السودان"
+    ]
+}, {
+    "value": "Suriname",
+    "callingcode": "+597",
+    "iso2": "SR",
+    "importance": 0,
+    "tokens": [
+        "+597",
+        "SR",
+        "Sarnam",
+        "Sranangron",
+        "Surinam",
+        "Suriname",
+        "शर्नम्"
+    ]
+}, {
+    "value": "Swaziland",
+    "callingcode": "+268",
+    "iso2": "SZ",
+    "importance": 0,
+    "tokens": [
+        "+268",
+        "Ngwane",
+        "SZ",
+        "Suazilandia",
+        "Swatini",
+        "Swaziland",
+        "weSwatini"
+    ]
+}, {
+    "value": "Sweden",
+    "callingcode": "+46",
+    "iso2": "SE",
+    "importance": 2,
+    "tokens": [
+        "+46",
+        "SE",
+        "Suecia",
+        "Suède",
+        "Sverige",
+        "Sweden"
+    ]
+}, {
+    "value": "Switzerland",
+    "callingcode": "+41",
+    "iso2": "CH",
+    "importance": 2,
+    "tokens": [
+        "+41",
+        "CH",
+        "Confederation",
+        "Schweiz",
+        "Suisse",
+        "Suiza",
+        "Svizzera",
+        "Swiss",
+        "Switzerland"
+    ]
+}, {
+    "value": "Syria",
+    "callingcode": "+963",
+    "iso2": "SY",
+    "importance": 0,
+    "tokens": [
+        "+963",
+        "Arab",
+        "Republic",
+        "SY",
+        "Siria",
+        "Syrian",
+        "Syrie",
+        "سورية"
+    ]
+}, {
+    "value": "Taiwan",
+    "callingcode": "+886",
+    "iso2": "TW",
+    "importance": 0,
+    "tokens": [
+        "+886",
+        "TW",
+        "Taiwan",
+        "Taiwán",
+        "Taïwan",
+        "台灣",
+        "臺灣"
+    ]
+}, {
+    "value": "Tajikistan",
+    "callingcode": "+992",
+    "iso2": "TJ",
+    "importance": 0,
+    "tokens": [
+        "+992",
+        "TJ",
+        "Tadjikistan",
+        "Tajikistan",
+        "Tayikistán",
+        "Toçikiston",
+        "Тоҷикистон"
+    ]
+}, {
+    "value": "Tanzania",
+    "callingcode": "+255",
+    "iso2": "TZ",
+    "importance": 0,
+    "tokens": [
+        "(République",
+        "+255",
+        "Republic",
+        "TZ",
+        "Tanzania,",
+        "Tanzanie",
+        "United",
+        "of",
+        "unie)"
+    ]
+}, {
+    "value": "Thailand",
+    "callingcode": "+66",
+    "iso2": "TH",
+    "importance": 0,
+    "tokens": [
+        "+66",
+        "Prathet",
+        "TH",
+        "Tailandia",
+        "Thai",
+        "Thailand",
+        "Thaïlande",
+        "ประเทศไทย"
+    ]
+}, {
+    "value": "Timor-Leste",
+    "callingcode": "+670",
+    "iso2": "TL",
+    "importance": 0,
+    "tokens": [
+        "+670",
+        "Oriental",
+        "TL",
+        "Timor",
+        "Timor-Leste",
+        "oriental"
+    ]
+}, {
+    "value": "Togo",
+    "callingcode": "+228",
+    "iso2": "TG",
+    "importance": 0,
+    "tokens": [
+        "+228",
+        "TG",
+        "Togo"
+    ]
+}, {
+    "value": "Tokelau",
+    "callingcode": "+690",
+    "iso2": "TK",
+    "importance": 1,
+    "tokens": [
+        "+690",
+        "TK",
+        "Tokelau"
+    ]
+}, {
+    "value": "Tonga",
+    "callingcode": "+676",
+    "iso2": "TO",
+    "importance": 0,
+    "tokens": [
+        "+676",
+        "TO",
+        "Tonga"
+    ]
+}, {
+    "value": "Trinidad and Tobago",
+    "callingcode": "+1868",
+    "iso2": "TT",
+    "importance": 0,
+    "tokens": [
+        "+1-868",
+        "+1868",
+        "TT",
+        "Tobago",
+        "Trinidad",
+        "Trinité-et-Tobago",
+        "and",
+        "y"
+    ]
+}, {
+    "value": "Tunisia",
+    "callingcode": "+216",
+    "iso2": "TN",
+    "importance": 0,
+    "tokens": [
+        "+216",
+        "TN",
+        "Tunisia",
+        "Tunisie",
+        "Túnez",
+        "تونس"
+    ]
+}, {
+    "value": "Turkey",
+    "callingcode": "+90",
+    "iso2": "TR",
+    "importance": 0,
+    "tokens": [
+        "+90",
+        "TR",
+        "Turkey",
+        "Turkiye",
+        "Turquie",
+        "Turquía",
+        "Türkiye"
+    ]
+}, {
+    "value": "Turkmenistan",
+    "callingcode": "+993",
+    "iso2": "TM",
+    "importance": 0,
+    "tokens": [
+        "+993",
+        "TM",
+        "Turkmenistan",
+        "Turkmenistán",
+        "Turkménistan",
+        "Türkmenistan"
+    ]
+}, {
+    "value": "Turks & Caicos",
+    "callingcode": "+1649",
+    "iso2": "TC",
+    "importance": 1,
+    "tokens": [
+        "&amp;",
+        "(Iles)",
+        "+1-649",
+        "+1649",
+        "Caicos",
+        "Islands",
+        "TC",
+        "Turcas",
+        "Turks",
+        "and",
+        "y"
+    ]
+}, {
+    "value": "Tuvalu",
+    "callingcode": "+688",
+    "iso2": "TV",
+    "importance": 1,
+    "tokens": [
+        "+688",
+        "TV",
+        "Tuvalu"
+    ]
+}, {
+    "value": "Uganda",
+    "callingcode": "+256",
+    "iso2": "UG",
+    "importance": 0,
+    "tokens": [
+        "+256",
+        "Ouganda",
+        "UG",
+        "Uganda"
+    ]
+}, {
+    "value": "Ukraine",
+    "callingcode": "+380",
+    "iso2": "UA",
+    "importance": 0,
+    "tokens": [
+        "+380",
+        "UA",
+        "Ucrania",
+        "Ukraine",
+        "Ukrayina",
+        "Україна"
+    ]
+}, {
+    "value": "UAE",
+    "callingcode": "+971",
+    "iso2": "AE",
+    "importance": 0,
+    "tokens": [
+        "+971",
+        "AE",
+        "Arab",
+        "Arabes",
+        "Emirates",
+        "Emirats",
+        "UAE",
+        "Unis",
+        "United",
+        "الإمارات"
+    ]
+}, {
+    "value": "United Kingdom",
+    "callingcode": "+44",
+    "iso2": "GB",
+    "importance": 0,
+    "tokens": [
+        "+44",
+        "Britain",
+        "England",
+        "GB",
+        "Great",
+        "Kingdom",
+        "Reino",
+        "Royaume-Uni",
+        "UK",
+        "Unido",
+        "United",
+        "Wales"
+    ]
+}, {
+    "value": "United States",
+    "callingcode": "+1",
+    "iso2": "US",
+    "importance": 5,
+    "tokens": [
+        "+1",
+        "America",
+        "Estados",
+        "Etats-Unis",
+        "States",
+        "US",
+        "USA",
+        "Unidos",
+        "United",
+        "of"
+    ]
+}, {
+    "value": "Uruguay",
+    "callingcode": "+598",
+    "iso2": "UY",
+    "importance": 0,
+    "tokens": [
+        "+598",
+        "UY",
+        "Uruguay"
+    ]
+}, {
+    "value": "Uzbekistan",
+    "callingcode": "+998",
+    "iso2": "UZ",
+    "importance": 0,
+    "tokens": [
+        "+998",
+        "O&#39;zbekstan",
+        "Ouzbékistan",
+        "O‘zbekiston",
+        "UZ",
+        "Uzbekistan",
+        "Uzbekistán",
+        "Ўзбекистон"
+    ]
+}, {
+    "value": "Vanuatu",
+    "callingcode": "+678",
+    "iso2": "VU",
+    "importance": 0,
+    "tokens": [
+        "+678",
+        "VU",
+        "Vanuatu"
+    ]
+}, {
+    "value": "Venezuela",
+    "callingcode": "+58",
+    "iso2": "VE",
+    "importance": 0,
+    "tokens": [
+        "+58",
+        "VE",
+        "Venezuela"
+    ]
+}, {
+    "value": "Vietnam",
+    "callingcode": "+84",
+    "iso2": "VN",
+    "importance": 0,
+    "tokens": [
+        "+84",
+        "Nam",
+        "VN",
+        "Viet",
+        "Vietnam"
+    ]
+}, {
+    "value": "BVI",
+    "callingcode": "+1284",
+    "iso2": "VG",
+    "importance": 1,
+    "tokens": [
+        "+1-284",
+        "+1284",
+        "BVI",
+        "British",
+        "Británicas",
+        "Iles",
+        "Islands,",
+        "Islas",
+        "VG",
+        "Vierges",
+        "Virgin",
+        "Vírgenes",
+        "britanniques"
+    ]
+}, {
+    "value": "US Virgin Islands",
+    "callingcode": "+1340",
+    "iso2": "VI",
+    "importance": 1,
+    "tokens": [
+        "+1-340",
+        "+1340",
+        "Estados",
+        "Iles",
+        "Islands",
+        "Islands,",
+        "Islas",
+        "U.S.",
+        "US",
+        "Unidos",
+        "VI",
+        "Vierges",
+        "Virgin",
+        "Vírgenes",
+        "américaines",
+        "de",
+        "los"
+    ]
+}, {
+    "value": "Wallis and Futuna",
+    "callingcode": "+681",
+    "iso2": "WF",
+    "importance": 1,
+    "tokens": [
+        "+681",
+        "Futuna",
+        "Iles",
+        "WF",
+        "Wallis",
+        "Wallis-et-Futuna",
+        "and",
+        "y"
+    ]
+}, {
+    "value": "Yemen",
+    "callingcode": "+967",
+    "iso2": "YE",
+    "importance": 0,
+    "tokens": [
+        "+967",
+        "YE",
+        "Yemen",
+        "Yémen",
+        "اليمن"
+    ]
+}, {
+    "value": "Zambia",
+    "callingcode": "+260",
+    "iso2": "ZM",
+    "importance": 0,
+    "tokens": [
+        "+260",
+        "ZM",
+        "Zambia",
+        "Zambie"
+    ]
+}, {
+    "value": "Zimbabwe",
+    "callingcode": "+263",
+    "iso2": "ZW",
+    "importance": 0,
+    "tokens": [
+        "+263",
+        "ZW",
+        "Zimbabue",
+        "Zimbabwe"
+    ]
+}, {
+    "value": "Curaçao",
+    "callingcode": "+5999",
+    "iso2": "CW",
+    "importance": 0,
+    "tokens": [
+        "+5999",
+        "CW",
+        "Curazao",
+        "Pais-Kòrsou",
+        "País-de-Curazao",
+        "Curacao",
+        "nl",
+        "Netherlands",
+        "néerlandaises",
+        "AN",
+        "Antillas",
+        "Antilles"
+    ]
+}, {
+    "value": "Sint Maarten",
+    "callingcode": "+1721",
+    "iso2": "SX",
+    "importance": 0,
+    "tokens": [
+        "+1721",
+        "SX",
+        "Saint-Martin",
+        "Sint-Maarten",
+        "nl",
+        "Netherlands",
+        "néerlandaises",
+        "AN",
+        "Antillas",
+        "Antilles"
+    ]
+}, {
+    "value": "Caribbean Netherlands",
+    "callingcode": "+599",
+    "iso2": "BQ",
+    "importance": 0,
+    "tokens": [
+        "+599",
+        "BQ",
+        "Caribe-Neerlandés",
+        "AN",
+        "Antillas",
+        "Antilles",
+        "Caribbean-Netherlands",
+        "Pays-Bas-caribéens",
+        "Îles BES",
+        "Caribisch-Nederland",
+        "BES-eilanden",
+        "nl",
+        "AN",
+        "Antillas",
+        "Antilles",
+        "Holandesas",
+        "Netherlands",
+        "néerlandaises"
+    ]
+}]

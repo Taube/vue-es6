@@ -3,6 +3,7 @@
 
 <h1>var, let, const and template variables</h1>
 
+
 <p>
 <strong>Use the correct type for the task</strong>
 </p>
